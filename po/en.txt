@@ -1,0 +1,12 @@
+app.title=Restaurant System
+login.title=Sign in
+login.username=Username
+login.password=Password
+login.button=Sign in
+menu.create_order=Create order
+orders.add_item=Add item
+orders.close=Close & ticket
+orders.status=Status
+report.export=Export daily sales
+status.ready=Ready
+status.error=An error occurred

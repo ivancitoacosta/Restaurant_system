@@ -1,0 +1,12 @@
+app.title=Sistema de Restaurante
+login.title=Iniciar sesión
+login.username=Usuario
+login.password=Contraseña
+login.button=Ingresar
+menu.create_order=Crear comanda
+orders.add_item=Agregar ítem
+orders.close=Cerrar y ticket
+orders.status=Estado
+report.export=Exportar ventas del día
+status.ready=Listo
+status.error=Ocurrió un error
